@@ -1,0 +1,5 @@
+pandas
+numpy
+pynput
+statistics
+streamlit
